@@ -1,0 +1,123 @@
+
+.cell1{
+  color:white;
+}
+
+.cell2{
+  border-right:7px solid black;
+  border-left:7px solid black;
+  color:white;
+}
+
+.cell3{
+  background-color: yellow;
+  border-right:7px solid black;
+  color:yellow;
+}
+
+.cell4{
+  color:white;
+}
+
+.cell5{
+  border-top:7px solid black;
+  border-bottom:7px solid black;
+  color:white;
+}
+
+.cell6{
+  background-color: red;
+  width:200px;
+  border: 8px solid black;
+  color:red;
+}
+
+.cell7{
+  background-color: yellow;
+  height:100px;
+  border:8px solid black;
+  border-left:none;
+  color:yellow;
+}
+
+.cell8{
+  border-bottom:7px solid black;
+  color:white;
+}
+
+.cell9{
+  height:110px;
+  width:70px;
+  border-bottom:7px solid black;
+  border-right:7px solid black;
+  color:white;
+}
+
+.cell10{
+  height:110px;
+  width:70px;
+  border-bottom:7px solid black;
+  border-right:7px solid black;
+  color:white;
+}
+
+.cell11{
+  background-color: black;
+  height:110px;
+  border:8px solid black;
+  border-top:none;
+}
+
+.cell12{
+  border-right:3px solid black;
+  color:white;
+}
+
+.cell13{
+  height:50px;
+  border-right:7px solid black;
+  border-left:4px solid black;
+  color:white;
+}
+
+.cell14{
+  background-color: yellow;
+  color:yellow;
+}
+
+
+.cell15{
+  border-top:7px solid black;
+  border-bottom:2px solid black;
+  color:white;
+}
+
+.cell16{
+  background-color:blue;
+  border:8px solid black;
+  color:blue;
+}
+
+.cell17{
+  background-color:red;
+  border-top:7px solid black;
+  color:red;
+}
+
+.cell18{
+ border-right:7px solid black;
+ border-left:7px solid black;
+ color:white;
+}
+
+.cell19{
+  background-color: black;
+  border-top:5px solid black;
+  border-bottom:7px solid black;
+}
+
+.cell20{
+  color:white;
+  border-right:4px solid black;
+}
+
